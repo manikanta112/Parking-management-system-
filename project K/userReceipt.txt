@@ -1,0 +1,7 @@
+NAME: chandu
+UNIQUE ID: 7923
+TIME IN: 11 : 0
+TIME OUT: 16 : 0
+FARE: RM6.0
+
+

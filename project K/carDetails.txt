@@ -1,0 +1,21 @@
+MODEL: 2015
+BRAND: volvo
+COLOR: red
+PLAT NO: 23
+
+
+
+MODEL: 2024
+BRAND: bmw
+COLOR: black
+PLAT NO: 63
+
+
+
+MODEL: 2024
+BRAND: bmw
+COLOR: black
+PLAT NO: 63
+
+
+
